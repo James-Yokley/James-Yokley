@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James-Yokley
-I'm currently a 3rd year student at CSULA studying Computer Science. 
-I work in Java mainly, but have also been working on Swift, Python, Javascript, Node.js, HTML/CSS, and Django.
-My areas of interest are security, data science, and game development. 
+I currently work as a data scientist and am about to start a Master of Science in Analytics from Georgia Tech.
+In my current role, I mostly use Python and Spark but am trained and comfortable with Java and Javascript. 
+
 
 <!---
 James-Yokley/James-Yokley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
